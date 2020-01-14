@@ -1,4 +1,6 @@
 This is my first git repository.
 I am learning git.
 my name is peng.
-lalala.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
